@@ -3,7 +3,7 @@
 A modern, responsive front-end landing page built using **HTML** and **CSS**.  
 This project focuses on clean UI, typography, and layout fundamentals.
 
-## 🌐 Live Demo
+c
 https://muskan-0410.github.io/Slay/
 
 ## 🚀 Features
